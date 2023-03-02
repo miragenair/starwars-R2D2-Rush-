@@ -7,6 +7,7 @@
 - You have to avoid contact with the laser. if you collide with the laser the game will be over.
 
 # How to start the game
+- Download the entire repo on your PC.
 - Open the "dist" folder and double click on the file named "Starwars.py" and enjoy the game.
 
 Thank you :)
