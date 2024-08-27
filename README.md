@@ -1,6 +1,9 @@
 # Starwars-R2D2-Rush
 This is a star wars game in which you play as the adorable droid R2D2, dodging enemies and their attacks while collecting the data chips that contains the plans to destroy the deathstar!
 
+![image](https://github.com/user-attachments/assets/502e7fa0-d863-4de0-af1c-b20d40550afd)
+
+
 ### How the game is made
 - The game is made entirely using icons and images which are embedded in the game using the pygame library.
 - Used Figma to edit the icons for the game.
