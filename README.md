@@ -5,10 +5,9 @@ https://github.com/user-attachments/assets/dc75b4a7-94e3-4a88-a90c-ad563da7cd7b
 
 ### How the game is made :
 - The game is made entirely using icons and images which are embedded in the game using the pygame library.
+- Each object in the game has its own respective x and y coordinates which are dynamic used for movement of the main character “R2D2”, and the other objects which are moving in the game.
+- Used the distance formula for collisions between the objects and the main character.
 - Used Figma to edit the icons for the game.
-- Each object in the game has its own respective x and y coordinates which are dynamic.
-- Used the keydown functions (pygame) for movement of the main character “R2D2”.
-- Used the distance formula for collisions between two objects in the game of maths.
 - Maintained a separate file to keep record of the high score.
 
 ### Technology Used :
